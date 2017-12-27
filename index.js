@@ -20,7 +20,7 @@ function deepestChild(){
   var answer = '#grand-node'
 
  for (let i=0; i<nodeList.length; i++){
-  answer = answer + ' div '
+  answer = answer + ' div'
  }
  return answer
 }
